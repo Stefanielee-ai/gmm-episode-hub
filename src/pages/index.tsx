@@ -29,11 +29,6 @@ export default function Home() {
       </Head>
 
       <main className="max-w-4xl mx-auto py-12 px-4">
-        <header className="mb-8">
-          <h1 className="text-3xl font-bold tracking-tight">GMM Episode Search</h1>
-          <p className="text-gray-600 mt-2">Find your favorite episodes quickly.</p>
-        </header>
-
         <section className="bg-white p-6 rounded-lg shadow-sm border border-gray-200">
           <div className="flex gap-4">
             <input
